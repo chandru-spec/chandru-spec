@@ -14,7 +14,10 @@ Motivated and detail-oriented AI/ML Research Intern with a strong background in 
 - **Machine Learning**: NLP, Statistical Analysis, Data Visualization
 
 ### Data Analysis:
-- **Key Techniques**: Data Cleaning, Exploratory Data Analysis (EDA)
+- **Key Techniques**
+- Data Cleaning
+-  Exploratory
+-  Data Analysis (EDA)
 
 ### Soft Skills:
 - Problem-Solving
