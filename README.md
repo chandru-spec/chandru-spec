@@ -1,92 +1,78 @@
-## Hi, I'm Chandru J 👋
+<h1>Chandru Jaiganesh</h1>
+<p><strong>AI Engineer · Agentic AI & RAG Specialist · Chennai, India</strong></p>
 
-### Aspiring Data Analyst
-
-Motivated and detail-oriented AI/ML Research Intern with a strong background in data analysis. I am passionate about leveraging cutting-edge statistical techniques and innovative problem-solving methods to drive data-informed decision-making while maintaining data privacy and security.
-
----
-
-## 🚀 Skills
-
-### Technical Skills:
-- **Programming**: Python, SQL
-- **Tools**: Excel, Tableau, Power BI
-- **Machine Learning**: NLP, Statistical Analysis, Data Visualization
-
-### Data Analysis:
-- **Key Techniques**
-- Data Cleaning
--  Exploratory
--  Data Analysis (EDA)
-
-### Soft Skills:
-- Problem-Solving
-- Team Collaboration
+![LangChain](https://img.shields.io/badge/LangChain-LangGraph-1D9E75?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Systems-534AB7?style=flat-square)
+![Copilot](https://img.shields.io/badge/Microsoft-Copilot%20Studio-BA7517?style=flat-square)
+![Agents](https://img.shields.io/badge/Multi--agent-Orchestration-D85A30?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Production-185FA5?style=flat-square)
 
 ---
 
-## 💼 Work Experience
+## About me
 
-### AI/ML Research Intern - Lending Buddha (Oct 2024 - Dec 2024)
-- Processed and analyzed extensive datasets for machine learning workflows.
-- Designed, trained, and optimized machine learning models to address complex business challenges.
-- Leveraged deep learning, NLP, and predictive analytics to enhance product functionalities.
+AI Engineer with 1+ year of production experience building autonomous agents, RAG pipelines, and enterprise automation systems. Currently at **Atos IT Services**, previously at **GoodBooks ERP** where I shipped a multi-persona chatbot serving 8+ enterprise modules at 99.5% reliability.
 
-### Data Analysis Intern - Edunet Foundation (June 2023 - July 2023)
-- Developed expertise in Python and advanced data analysis techniques.
-- Conducted store analysis using data visualization and statistical methods.
-- Gained hands-on experience with real-world datasets.
+I build things that run in the real world — not just demos.
+
+- Currently working on: enterprise workflow automation with Microsoft Copilot Studio & Power Automate  
+- Open to: AI Engineer / Agentic AI / LLM Engineer roles in Bangalore, Coimbatore, or Remote  
+- Ask me about: LangGraph multi-agent systems, RAG architecture, production chatbots
 
 ---
 
-## 📚 Academic Projects
+## Technical skills
 
-### AI Deepfake Detection System
-- Created a deep learning model for high-accuracy detection of deepfake images.
-- Utilized Python and TensorFlow to preprocess datasets and optimize performance.
-
-### YouTube Data Collection and Analysis
-- Developed a Python application to collect data via the YouTube API.
-- Conducted EDA to analyze viewer engagement and content trends.
-- Improved skills in API integration and data visualization.
-
----
-
-## 🎓 Education
-
-**Bachelor’s Degree in Artificial Intelligence and Data Science**  
-Nehru Institute of Engineering and Technology (2021 - 2025)  
-**CGPA**: 8.1
+| Area | Stack |
+|---|---|
+| Agentic AI | LangChain · LangGraph · CrewAI · AutoGen (A2A) · Microsoft Copilot Studio |
+| RAG & Vector DBs | Pinecone · Chroma · FAISS · Prompt Engineering |
+| Programming | Python · SQL · FastAPI · Streamlit · Bash |
+| Cloud & Infra | Microsoft Azure · GCP · Docker · Git · Power Automate |
+| ML / Deep Learning | TensorFlow · PyTorch · Scikit-learn · OpenCV |
+| Data | PostgreSQL · Pandas · NumPy · ETL Pipelines |
 
 ---
 
-## 🏆 Licenses & Certifications
-- **Introduction to Python** - Harvard University
-- **Python for Data Science** - NPTEL Certification
-- **Machine Learning Course** - Internshala with N.S.D.C certification
-- **Data Visualization** - TATA Group Forage Program
-- **Data Analysis with Python** - IBM SkillBuild
+## Featured projects
+
+### InvoiceX — AI-powered document extraction
+Multi-agent pipeline that automates invoice extraction from PDF and image files with 95%+ accuracy. Specialized agents handle OCR, data validation, and structured JSON/Excel output — reducing manual data entry by 70%.  
+`Python` `LangChain` `Groq API` `Tesseract/EasyOCR` `Multi-agent` `Pandas`
+
+### Role-Sense Chatbot — adaptive enterprise AI  
+Multi-persona RAG chatbot deployed across 8+ ERP modules at GoodBooks. Achieved 92%+ retrieval accuracy with Pinecone, improving enterprise support satisfaction by 45% over 7 months of production use.  
+`LangGraph` `RAG` `Pinecone` `Intent Classification` `LangChain`
+
+### Deepfake detection system  
+Deep learning classifier trained on 5,000+ images achieving 92% accuracy. Built with TensorFlow and OpenCV; optimised data preprocessing pipeline, reducing processing time by 25%.  
+`Python` `TensorFlow` `OpenCV` `Scikit-learn` `NumPy`
 
 ---
 
-## 📬 Get in Touch
-- **Email**: [jpjchandru@gmail.com](mailto:jpjchandru@gmail.com)
-- **LinkedIn**: [linkedin.com/in/chandru-jaiganesh](https://linkedin.com/in/chandru-jaiganesh)
-- **GitHub**: [github.com/chandru-spec](https://github.com/chandru-spec)
-- **Portfolio**: [Kudoswall Portfolio](https://pro.kudoswall.com/p/chandru-enhanced-resume-3)
+## Work experience
 
+**AI Engineer Trainee · Atos IT Services** *(Oct 2025 – Present)*  
+Deployed intelligent agents across 15+ business processes · 50% reduction in manual intervention · Microsoft 365 + SQL + third-party API integration · Knowledge transfer to 10+ Finance team members
 
-<!--
-**chandru-spec/chandru-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Developer Intern · GoodBooks ERP Technology** *(Mar 2025 – Oct 2025)*  
+Built production RAG chatbots · AutoGen-based QA automation (40% faster test cycles) · Generated 1,000+ synthetic QA datasets · LangChain + LangGraph orchestration across enterprise modules
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ..
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+- Python for Data Science — NPTEL (2023)  
+- Machine Learning — Internshala × NSDC (2023)  
+- IBM Watson Studio — IBM (2024)  
+- Data Visualization — TATA Group Forage (2024)  
+- AI/ML Virtual Internship — Eduskill (2024)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chandru--jaiganesh-0C447C?style=flat-square&logo=linkedin)](https://linkedin.com/in/chandru-jaiganesh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chandruspec.github.io-0F6E56?style=flat-square)](https://chandruspec.github.io/chandrujaiganesh)
+[![Email](https://img.shields.io/badge/Email-jpjchandru%40gmail.com-712B13?style=flat-square)](mailto:jpjchandru@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-@jpjchandru-444441?style=flat-square)](https://medium.com/@jpjchandru)
